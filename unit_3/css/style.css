@@ -1,0 +1,13 @@
+body {
+	background: url(../images/Cane_Toad.jpg);
+	background-color: black;
+	background-size: cover;
+	font-family: "Helvetica", "Calibri", sans-serif;
+	font-weight: 100;
+	margin-left: 75px;	
+}
+
+h1, h2, p, ul, li {
+	color: white;
+}
+
