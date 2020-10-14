@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Robot+Slab&display=swap');
+
+
+body 	{
+	background: url(../images/Cane_Toad.jpg);
+	background-color: black;
+	background-size: cover;
+	font-family: "Helvetica", "Calibri", sans-serif;
+	font-weight: 100;
+	margin-left: 2em;
+	color: white;
+	font-family: "Roboto Slab";
+}
+
+h1 	{
+	color: red;
+	margin: 0;
+}
+
+h2	{
+	font-family: "Roboto Slab";
+	color: yellow;
+	margin: 0;
+}
+
+
+#bottom {
+	font-size: .5em;
+}
+
+#title {
+	font-family: "Permanent Marker";
+	font-size: 5em;
+}
